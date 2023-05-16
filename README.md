@@ -10,7 +10,7 @@
 
 <h2> ⛓️ Proposta </h2>
 
-🔹 Você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
+🔹 Na [Versão 1] ()Você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
 
 ------------------------------------
 
