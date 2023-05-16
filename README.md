@@ -1,6 +1,6 @@
-<h2> Sistema Bancário </h2>
+<h2> Formação Python Developer </h2>
 
-<p> Desafio de projeto para o curso Python Developer pela DIO, o objetivo é criar um sistema bancário com a linguagem Python.
+<p> Desafios de projeto e códigos desenvolvidos para o curso de Python Developer da Digital Innovation One.
 
 <h2> 🛑 Pré-requisitos </h2>
 
@@ -8,11 +8,11 @@
 - [x] IDE para desenvolvimento Python
 - [x] Fundamentos da sintaxe Python
 
-<h2> ⛓️ Proposta </h2>
+<h2> ⛓️ Proposta - Desafio de Projeto 1</h2>
 
-🔹 Na [Versão 1] ()Você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
+Desafio de projeto para o curso Python Developer pela DIO, o objetivo é criar um sistema bancário com a linguagem Python.
 
-------------------------------------
+🔹 Na [Versão 1] (https://github.com/NicoleNF/sistema-bancario/blob/main/desafio_projeto/sistema_bancarioV1.py) do projeto, você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
 
 <h2> 🎯 Objetivos </h2>
 
@@ -24,6 +24,30 @@
 
 ------------------------------------
 
-Este repositório foi criado para fins de estudo e acompanhamento pessoal de progresso com a linguagem Python, através do curso de Python Developer pela DIO e outros cursos e sites que estudo de maneira autônoma.
+<h2> ⛓️ Proposta - Desafio de Projeto 2</h2>
+
+Otimizando o sistema bancário com funções Python
+
+🔸 Na [Versão 2] (https://github.com/NicoleNF/python-developer/blob/main/desafio_projeto/sistema_bancarioV2.py) deve-se separar as funções existentes de saques, depósitos e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente do banco) e cadastrar conta bancária.
+
+<h2> 🎯 Objetivos </h2>
+
+🔸 Deixar o código mais modularizado, criando funções para as operações existentes: sacar, depositar e visualizar histórico. Além disso, para a versão 2 do sistema é preciso criar duas novas funções: usuário (cliente do banco) e criar conta corrente (vincular com usuário).
+
+🔸 Deve-se criar funções para todas as operações do sistema. Cada função terá uma regra na passagem de argumentos.
+
+🔸 A função Saque deve receber os argumentos apenas por nome (keyword only).
+
+🔸 A função Depósito deve receber argumentos apenas por posição (positional only).
+
+🔸 A função Extrato deve receber os argumentos por posição e nome (positional only e keyword only).
+
+🔸 Criar Usuário (cliente): O programa deve armazenar os usuários em uma lista, um usuário é composto por: nome, data de nascimento, cpf e endereço. O endereço é uma string com o formato: logradouro, nro - bairro - cidade/sigla estado. Deve ser armazenado somente os números do CPF e não deve ser possível cadastrar dois usuários com o mesmo CPF.
+
+🔸 Criar Conta Corrente: O programa deve armazenar contas em uma lista, uma conta deve ser composta por: agência, número da conta e usuário. O número da conta é sequêncial, iniciando em 1. O número da agência é fixo: "0001" e o usuário pode ter mais de uma conta, mas uma conta pertence a somente um usuário.
+
+------------------------------------
+
+Este repositório foi criado para fins de estudo e acompanhamento pessoal de progresso com a linguagem Python, através do curso de Python Developer pela DIO e outros cursos e sites de estudo.
 
 [Nicole Ferreira](https://www.linkedin.com/in/nicole-ferreira-929b841a0/).
