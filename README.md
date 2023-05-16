@@ -12,7 +12,7 @@
 
 🔹 Você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
 
-----------------------------------
+------------------------------------
 
 <h2> 🎯 Objetivos </h2>
 
@@ -22,7 +22,7 @@
 
 🔹 Operação de Extrato: Essa operação deve listar todos os depósitos e saques realizados na conta. No fim da listtagem deve ser exiibido o saldo atual da conta. Os valores devem ser exibidos utilizando o formato R$ xxx.xx.
 
-----------------------------------
+------------------------------------
 
 Este repositóriio foi criado para fins de estudo e acompanhamento pessoal de progresso com a linguagem Python, através do curso de Python Developer pela DIO e outros cursos e sites que estudo de maneira autônoma.
 
