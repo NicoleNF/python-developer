@@ -2,7 +2,7 @@
 
 Desafio de projeto para o curso Python Developer pela DIO, o objetivo é criar um sistema bancário com a linguagem Python.
 
-🔹 Na <a href=https://github.com/NicoleNF/python-developer/blob/main/desafios_projeto/sistema_bancarioV1.py> [Versão 1] do projeto, você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
+🔹 Na [Versão 1](https://github.com/NicoleNF/python-developer/blob/main/desafios_projeto/sistema_bancarioV1.py) do projeto, você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
 
 <h2> 🎯 Objetivos </h2>
 
@@ -18,7 +18,7 @@ Desafio de projeto para o curso Python Developer pela DIO, o objetivo é criar u
 
 Otimizando o sistema bancário com funções Python
 
-🔸 Na <a href=https://github.com/NicoleNF/python-developer/blob/main/desafios_projeto/sistema_bancarioV1.py> [Versão 2] deve-se separar as funções existentes de saques, depósitos e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente do banco) e cadastrar conta bancária.
+🔸 Na [Versão 2](https://github.com/NicoleNF/python-developer/blob/main/desafios_projeto/sistema_bancarioV2.py), deve-se separar as funções existentes de saques, depósitos e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente do banco) e cadastrar conta bancária.
 
 <h2> 🎯 Objetivos </h2>
 
