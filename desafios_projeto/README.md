@@ -1,6 +1,6 @@
 <h2> ⛓️ Proposta - Desafio de Projeto 1 Sistema Bancário</h2>
 
-Desafio de projeto para o curso Python Developer pela DIO, o objetivo é criar um sistema bancário com a linguagem Python.
+Desafio de projeto cujo objetivo é criar um sistema bancário com a linguagem Python.
 
 🔹 Na [Versão 1](https://github.com/NicoleNF/python-developer/blob/main/desafios_projeto/sistema_bancarioV1.py) do projeto, você foi contratado por um grande banco para desenvolver um novo sistema. Esse banco deseja modernizar as operações e escolheu a linguagem Python. Para a primeira versão você deve implementar apenas 2 operações: depósito, saque e extrato.
 
@@ -38,7 +38,9 @@ Otimizando o sistema bancário com funções Python
 
 ------------------------------------
 
-<h2> ⛓️ Proposta - Desafio de Projeto 
+<h2> ⛓️ Proposta - Desafio de Projeto 3 Modelando o Sistea Bancário em POO com Python
+
+Atualizando a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários, seguindo um modelo UML. Atualizações tabém dos métodos que tratam as opções do menu, para funcionarem com as classes modeladas.
 
 ------------------------------------
 

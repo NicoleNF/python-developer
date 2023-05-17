@@ -8,7 +8,6 @@
 - [x] IDE para desenvolvimento Python
 - [x] Fundamentos da sintaxe Python
 
-
 ------------------------------------
 
 Este repositório foi criado para fins de estudo e acompanhamento pessoal de progresso com a linguagem Python, através do curso de Python Developer pela DIO e outros cursos e sites de estudo.
