@@ -26,3 +26,9 @@ A entrada contém 3 palavras, uma em cada linha, necessárias para identificar o
 Imprima o nome do animal correspondente à entrada fornecida.
 
 Veja a resolução do *Desafio 2* <a href=https://github.com/NicoleNF/python-developer/blob/main/desafios_codigo_intermediario/desafio2.py>aqui</a>.
+
+------------------------------------
+
+Este repositório foi criado para fins de estudo e acompanhamento pessoal de progresso com a linguagem Python, através do curso de Python Developer pela DIO e outros cursos e sites de estudo.
+
+[Nicole Ferreira](https://www.linkedin.com/in/nicole-ferreira-929b841a0/).

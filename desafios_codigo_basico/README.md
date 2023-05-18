@@ -51,3 +51,9 @@ A primeira linha contém um número inteiro C relativo ao número de casos de te
 Para cada valor lido, imprima o texto correspondente.
 
 Veja a resolução do *Desafio 4* <a href=https://github.com/NicoleNF/python-developer/blob/main/desafios_codigo_basico/desafio4.py>aqui</a>.
+
+------------------------------------
+
+Este repositório foi criado para fins de estudo e acompanhamento pessoal de progresso com a linguagem Python, através do curso de Python Developer pela DIO e outros cursos e sites de estudo.
+
+[Nicole Ferreira](https://www.linkedin.com/in/nicole-ferreira-929b841a0/).
