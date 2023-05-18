@@ -1,4 +1,4 @@
-<h1 align=center>Desafios de Código (Intermediários)</h1>
+<h2> ➰ Propostas - Desafios de Código (Intermediários)</h2>
 
 ## 1️⃣ - Aproveite a Oferta
 
