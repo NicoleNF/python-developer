@@ -38,7 +38,7 @@ Otimizando o sistema bancário com funções Python
 
 ------------------------------------
 
-<h2> ⛓️ Proposta - Desafio de Projeto 3 Modelando o Sistema Bancário em POO com Python
+<h2> ⛓️ Proposta - Desafio de Projeto 3 Modelando o Sistema Bancário em POO com Python </h2>
 
 Nessa [Versão 3](https://github.com/NicoleNF/python-developer/blob/main/desafios_projeto/sistema_bancarioV3.py), a atualização e implementação do sistema bancário para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários, seguindo um modelo UML. Atualizações tabém dos métodos que tratam as opções do menu, para funcionarem com as classes modeladas.
 
